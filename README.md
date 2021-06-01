@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Lewis.
+I'm Lewis (/ˈluːɪs/).
 
 😄 Pronouns: He/Him.
 
-❤️ I enjoy working with Kotlin, Coroutines, Compose, and Android.
+❤️ I enjoy working with Kotlin, Coroutines, Jetpack Compose, and Android.
 
 🤓 I'm passionate about security 🔐, performance ⚡️, and clean code 🧹.
 
